@@ -7,3 +7,8 @@ video{
     max-width: 25%;
     max-height: 25%;
 }
+body{
+    background-image: url('../foto/Xavierachtergrond.JPG');
+    background-position: center;
+    background-size: cover;
+}
