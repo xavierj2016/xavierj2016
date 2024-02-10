@@ -10,5 +10,5 @@ video{
 body{
     background-image: url('../foto/Xavierachtergrond.JPG');
     background-position: center;
-    background-size: cover;
+    background-size: auto;
 }
